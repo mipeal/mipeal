@@ -36,9 +36,10 @@ me.say_hi()
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## &#x1F3A7; Listening
+
 <p align="center">
   <a href="https://open.spotify.com/user/31zrcjpbfkfh2earholckyfohsey">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+<img src="https://now-play.vercel.app/api/generate?uid=498d8eb1-b0c0-426b-a8e8-c43e24988060&theme=dark" />
   </a>
 </p>
 
