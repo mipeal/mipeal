@@ -20,14 +20,18 @@ class CyberSecurityEngineer:
     def __init__(self):
         self.name = "Md Mujahid Islam Peal"
         self.role = "Lead Lab Engineer"
-        self.language_spoken = ["en_US","no_NO", "bd_BD"]
+        self.language_spoken = ["en_US","no_NO","bd_BD"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
+        
+    def get_connected(self):
+        print("Let's get connected through social media!")
 
 
 me = CyberSecurityEngineer()
 me.say_hi()
+me.get_connected()
 ```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
