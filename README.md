@@ -1,7 +1,7 @@
 
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mipeal)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mipeal)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
