@@ -42,6 +42,21 @@ me.get_connected()
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## &#x1F468;&#x200D;&#x1F4BB; This week, I spent my time on:
+
+<!--START_SECTION:waka-->
+
+```text
+From: 11 July 2022 - To: 18 July 2022
+
+YAML    4 hrs 40 mins   █████████████████████████   99.79 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
+<!--END_SECTION:waka-->
+
+<a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## &#x1F3A7; Listening
 
 <p align="center">
@@ -87,6 +102,11 @@ me.get_connected()
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mipeal&theme=dark" alt="mipeal" /></p>
+
+<a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## &#127894; GitHub Medals/Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mipeal&theme=nord&column=7" alt="githubtrophies" /></p>
 
@@ -101,23 +121,3 @@ me.get_connected()
 <a href="https://github.com/mipeal/OnlineExamSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mipeal&repo=OnlineExamSystem&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="OnlineExamSystem" />
 </a></p>
-
-<a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## &#x1F468;&#x200D;&#x1F4BB; This week, I spent my time on:
-
-<!--START_SECTION:waka-->
-
-```text
-From: 11 July 2022 - To: 18 July 2022
-
-YAML    4 hrs 40 mins   █████████████████████████   99.79 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-```
-
-<!--END_SECTION:waka-->
-
-<a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mipeal&theme=dark" alt="mipeal" /></p>
