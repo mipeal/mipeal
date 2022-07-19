@@ -108,6 +108,14 @@ me.get_connected()
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mipeal&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="currentlylearning" /></p>
 <!--START_SECTION:waka-->
+
+```text
+From: 18 June 2022 - To: 18 July 2022
+
+YAML    4 hrs 40 mins   █████████████████████████   99.79 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
+
 <!--END_SECTION:waka-->
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
