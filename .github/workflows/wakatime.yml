@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:  
   push:
-    branches: [ master ]
+    branches: [ master, main, develop ]
   schedule:
     - cron: '30 5 * * *' 
 
