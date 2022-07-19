@@ -109,7 +109,7 @@ me.get_connected()
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 June 2022 - To: 18 July 2022
+From: 11 July 2022 - To: 18 July 2022
 
 YAML    4 hrs 40 mins   █████████████████████████   99.79 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
