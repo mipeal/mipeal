@@ -107,7 +107,6 @@ me.get_connected()
 ## &#x1F468;&#x200D;&#x1F4BB; This week, I spent my time on:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mipeal&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="currentlylearning" /></p>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
