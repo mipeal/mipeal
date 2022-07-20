@@ -5,6 +5,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Profile Last Update](https://img.shields.io/github/last-commit/mipeal/mipeal/main?label=Last%20updated&style=flat)](https://github.com/mipeal/mipeal/commits)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-mipeal-informational?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peeaal/)](https://www.linkedin.com/in/peeaal/)
+[![Code Time](https://wakatime.com/badge/user/9a9678a7-587e-4239-86b3-9a682dfc7922.svg)](https://wakatime.com/@9a9678a7-587e-4239-86b3-9a682dfc7922)
 
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
