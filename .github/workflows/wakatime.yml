@@ -5,7 +5,7 @@ on:
   push:
     branches: [ master, main, develop, beta ]
   schedule:
-    - cron: '30 * * * *' 
+    - cron: '5 * * * *' 
 
 jobs:
   update-readme:
@@ -16,5 +16,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: false
-          SHOW_LANGUAGE: true
           TIME_RANGE: last_7_days
