@@ -45,7 +45,6 @@ me.get_connected()
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## &#x1F468;&#x200D;&#x1F4BB; This week, I spent my time on:
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -120,3 +119,5 @@ No activity tracked
 <a href="https://github.com/mipeal/OnlineExamSystem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mipeal&repo=OnlineExamSystem&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="OnlineExamSystem" />
 </a></p>
+
+[![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
