@@ -47,8 +47,8 @@ me.get_connected()
 <!--START_SECTION:waka-->
 
 ```text
-YAML    4 hrs 40 mins   █████████████████████████   99.79 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+YAML              5 hrs 5 mins    ██████████████░░░░░░░░░░░   56.49 %
+Other             1 hr 40 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
 ```
 
 <!--END_SECTION:waka-->
