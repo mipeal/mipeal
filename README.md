@@ -44,17 +44,6 @@ me.get_connected()
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## &#x1F468;&#x200D;&#x1F4BB; This week, I spent my time on:
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 ## &#x1F3A7; Listening
 
 <p align="center">
@@ -104,20 +93,20 @@ No activity tracked
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mipeal&theme=dark" alt="mipeal" /></p>
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<!--
 ## &#127894; GitHub Medals/Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mipeal&theme=nord&column=7" alt="githubtrophies" /></p>
 
+
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+-->
+## &#x1F468;&#x200D;&#x1F4BB; This week, I spent my time on:
+<!--START_SECTION:waka-->
 
-## &#128450; Highlight Projects
-<p align="center">
-<a href="https://github.com/mipeal/StockManagementSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mipeal&repo=StockManagementSystem&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="StockManagementSystem" />
-</a>
+```text
+No activity tracked
+```
 
-<a href="https://github.com/mipeal/OnlineExamSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mipeal&repo=OnlineExamSystem&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="OnlineExamSystem" />
-</a></p>
+<!--END_SECTION:waka-->
 
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
