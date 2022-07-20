@@ -5,7 +5,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Profile Last Update](https://img.shields.io/github/last-commit/mipeal/mipeal/main?label=Last%20updated&style=flat)](https://github.com/mipeal/mipeal/commits)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-mipeal-informational?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peeaal/)](https://www.linkedin.com/in/peeaal/)
-[![Code Time](https://wakatime.com/badge/user/9a9678a7-587e-4239-86b3-9a682dfc7922.svg)](https://wakatime.com/@9a9678a7-587e-4239-86b3-9a682dfc7922)
+[![Wakatime Badge](https://img.shields.io/badge/Wakatime-mipeal-informational?style=flat&logo=Wakatime&logoColor=white&link=https://wakatime.com/@mipeal)](https://wakatime.com/@mipeal)
+
 
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -48,8 +49,8 @@ me.get_connected()
 <!--START_SECTION:waka-->
 
 ```text
-YAML              4 hrs 47 mins   █████████████▓░░░░░░░░░░░   54.95 %
-Other             1 hr 40 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
+YAML              5 hrs 5 mins    ██████████████░░░░░░░░░░░   56.49 %
+Other             1 hr 40 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
 ```
 
 <!--END_SECTION:waka-->
