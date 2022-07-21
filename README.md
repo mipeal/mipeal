@@ -7,7 +7,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-mipeal-informational?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peeaal/)](https://www.linkedin.com/in/peeaal/)
 [![Wakatime Badge](https://img.shields.io/badge/Wakatime-mipeal-informational?style=flat&logo=Wakatime&logoColor=white&link=https://wakatime.com/@mipeal)](https://wakatime.com/@mipeal)
 
-
+[![status](https://badge.stateful.com/mipeal/dnd.svg)]()
+[![status](https://badge.stateful.com/mipeal/status.svg)]()
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
