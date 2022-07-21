@@ -80,7 +80,7 @@ me.get_connected()
 ![](https://img.shields.io/badge/Tools-LaTex-informational?style=flat&logo=latex&logoColor=white&color=6aa6f8)
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<!--
 ## &#x1f4c8; GitHub Stats
 <p align="center">
 <a href="https://github.com/mipeal">
@@ -88,7 +88,7 @@ me.get_connected()
 </a></p>
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+-->
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mipeal&theme=dark" alt="mipeal" /></p>
 
@@ -100,7 +100,7 @@ me.get_connected()
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 -->
-## &#x1F468;&#x200D;&#x1F4BB; This week, I spent my time on:
+## &#x1F468;&#x200D;&#x1F4BB; Coding Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -178,5 +178,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
  Last Updated on 21/07/2022 10:39:58 UTC
 <!--END_SECTION:waka-->
-
+<!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
+-->
