@@ -104,7 +104,12 @@ me.get_connected()
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python            1 hr 2 mins     ████████████████████▓░░░░   82.14 %
+Git Config        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+YAML              4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+JSON              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+TOML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Protocol Buffer   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
