@@ -19,5 +19,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           IGNORED_REPOS: "waka-readme-stats, mipeal"
-          SHOW_TOTAL_CODE_TIME: "False"
+          #SHOW_TOTAL_CODE_TIME: "False"
           LOCALE: "en"
