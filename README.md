@@ -103,7 +103,7 @@ me.get_connected()
 -->
 ## &#x1F468;&#x200D;&#x1F4BB; Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -155,17 +155,17 @@ Unknown OS               2 hrs               ████░░░░░░░�
 **I Mostly Code in C#** 
 
 ```text
-C#                       6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+C#                       6 repos             ████████░░░░░░░░░░░░░░░░░   31.58% 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+Shell                    3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
 
 
- Last Updated on 10/08/2022 10:11:25 UTC
+ Last Updated on 10/08/2022 11:09:05 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
