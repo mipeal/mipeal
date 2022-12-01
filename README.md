@@ -103,7 +103,7 @@ me.get_connected()
 -->
 ## &#x1F468;&#x200D;&#x1F4BB; Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -136,16 +136,17 @@ Sunday       11 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Other                    8 hrs 30 mins       ████████████████████████░   96.81% 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
+Other                    17 hrs 4 mins       ████████████████████████░   96.11% 
+YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.89%
 
 🔥 Editors: 
-Google Calendar          8 hrs 30 mins       ████████████████████████░   96.81% 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
+Google Calendar          16 hrs 45 mins      ███████████████████████░░   94.25% 
+VS Code                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   5.75%
 
 💻 Operating System: 
-Unknown OS               8 hrs 30 mins       ████████████████████████░   96.81% 
-Windows                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
+Unknown OS               16 hrs 45 mins      ███████████████████████░░   94.25% 
+Linux                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+Windows                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
 
 ```
 
@@ -162,7 +163,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2022 23:10:32 UTC
+ Last Updated on 01/12/2022 00:45:53 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
