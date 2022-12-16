@@ -136,13 +136,18 @@ Sunday       11 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 hrs 52 mins       ███████████████████░░░░░░   78.72% 
+Python                   1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.94% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          4 hrs 45 mins       ███████████████████░░░░░░   76.59% 
+VS Code                  1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   23.41%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Unknown OS               4 hrs 45 mins       ███████████████████░░░░░░   76.59% 
+Linux                    1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   23.41%
 
 ```
 
@@ -159,7 +164,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2022 00:38:20 UTC
+ Last Updated on 16/12/2022 02:05:51 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
