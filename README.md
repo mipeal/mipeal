@@ -103,7 +103,7 @@ me.get_connected()
 -->
 ## &#x1F468;&#x200D;&#x1F4BB; Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -136,13 +136,17 @@ Sunday       11 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Python                   54 mins             █████████████████████████   100.0%
+Python                   57 mins             ███████████████░░░░░░░░░░   62.33% 
+YAML                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.0% 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
+Docker                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59%
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.0%
+VS Code                  1 hr 32 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    54 mins             █████████████████████████   100.0%
+Linux                    1 hr 32 mins        █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +163,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2023 23:09:33 UTC
+ Last Updated on 05/01/2023 00:40:21 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
