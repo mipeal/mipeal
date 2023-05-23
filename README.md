@@ -1,14 +1,14 @@
 
 # Hello there 👋
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mipeal)
+<!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mipeal)-->
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Profile Last Update](https://img.shields.io/github/last-commit/mipeal/mipeal/main?label=Last%20updated&style=flat)](https://github.com/mipeal/mipeal/commits)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-mipeal-informational?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peeaal/)](https://www.linkedin.com/in/peeaal/)
 [![Wakatime Badge](https://img.shields.io/badge/Wakatime-mipeal-informational?style=flat&logo=Wakatime&logoColor=white&link=https://wakatime.com/@mipeal)](https://wakatime.com/@mipeal)
-
-[![status](https://badge.stateful.com/mipeal/dnd.svg)]()
 [![status](https://badge.stateful.com/mipeal/status.svg)]()
+
+<!--[![status](https://badge.stateful.com/mipeal/dnd.svg)]()-->
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -29,7 +29,7 @@ class CyberSecurityEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
         
     def get_connected(self):
-        print("Let's get connected through social media!")
+        print("Let's get connected through linkedin!")
 
 
 me = CyberSecurityEngineer()
@@ -42,7 +42,7 @@ me.get_connected()
 ## 📝 Blogs
 
 - Personal website and blog: https://mipeal.myportfolio.com/
-
+<!--
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## &#x1F3A7; Listening
@@ -52,7 +52,7 @@ me.get_connected()
 <img src="https://now-play.vercel.app/api/generate?uid=498d8eb1-b0c0-426b-a8e8-c43e24988060&theme=dark" />
   </a>
 </p>
-
+-->
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
@@ -105,7 +105,7 @@ me.get_connected()
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
+<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)-->
 
 **I'm an Early 🐤** 
 
