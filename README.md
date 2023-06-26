@@ -103,7 +103,7 @@ me.get_connected()
 -->
 ## &#x1F468;&#x200D;&#x1F4BB; Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2019%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
 
@@ -136,17 +136,14 @@ Sunday       20 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-JavaScript               3 hrs 33 mins       ████████████████████░░░░░   82.86% 
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.58% 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+Markdown                 15 mins             ████████████████████░░░░░   80.72% 
+YAML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.28%
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       █████████████████████████   100.0%
+VS Code                  19 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      4 hrs 17 mins       █████████████████████████   100.0%
+WSL                      19 mins             █████████████████████████   100.0%
 
 ```
 
@@ -163,7 +160,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2023 01:06:26 UTC
+ Last Updated on 26/06/2023 01:16:06 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
