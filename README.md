@@ -136,14 +136,13 @@ Sunday       20 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Markdown                 15 mins             ████████████████████░░░░░   80.72% 
-YAML                     3 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.28%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -160,7 +159,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2023 01:16:06 UTC
+ Last Updated on 03/07/2023 01:16:41 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
