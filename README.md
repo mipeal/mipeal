@@ -103,7 +103,7 @@ me.get_connected()
 -->
 ## &#x1F468;&#x200D;&#x1F4BB; Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2050%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30%20Thousand%20lines%20of%20code-blue)
 
@@ -136,13 +136,17 @@ Sunday       20 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Less                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   26.23% 
+XML                      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Other                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+HTML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
+Python                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.9%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 35 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 35 mins        █████████████████████████   100.0%
 
 ```
 
@@ -159,7 +163,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2023 01:01:51 UTC
+ Last Updated on 07/08/2023 02:05:33 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
