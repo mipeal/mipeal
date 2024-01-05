@@ -8,22 +8,23 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: ubuntu-latest
+    # Specify the Ubuntu version, for example, Ubuntu 20.04
+    runs-on: ubuntu-20.04 
 
     steps:
       # Step 1: Check out the repository so your workflow can access it
       - name: Check out the repo
         uses: actions/checkout@v3
 
-      # Step 2: Set up Node.js environment with a version compatible with npm@latest
-      - name: Setup Node.js (Node >= 18.17.0)
+      # Step 2: Set up Node.js environment (Choose a version that is compatible with your desired npm)
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18.17.0' # Ensure this version is compatible with npm@latest
+          node-version: '14' # Choose the node version that is compatible with your desired npm version
 
-      # Step 3: Install dependencies or any other required tools
-      - name: Install npm at latest
-        run: npm install -g npm@latest
+      # Step 3: Install a specific version of npm
+      - name: Install specific version of npm
+        run: npm install -g npm@6.14.15 # Replace with your specific desired npm version
 
       # Step 4: Use mipeal/waka-readme-stats action to update README
       - name: Update README with Wakatime stats
