@@ -3,31 +3,13 @@ name: Waka Readme
 on:
   schedule:
     - cron: "* 0 * * 1"
-  workflow_dispatch:
-
+  workflow_dispatch:  
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Check out the repository so your workflow can access it
-      - name: Check out the repo
-        uses: actions/checkout@v3
-
-      # Step 2: Set up Node.js environment with a version compatible with npm@latest
-      - name: Setup Node.js (Node >= 18.17.0)
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18.17.0' # Ensure this version is compatible with npm@latest
-
-      # Step 3: Install dependencies or any other required tools
-      - name: Install npm at latest
-        run: npm install -g npm@latest
-
-      # Step 4: Use mipeal/waka-readme-stats action to update README
-      - name: Update README with Wakatime stats
-        uses: mipeal/waka-readme-stats@master
+      - uses: mipeal/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
