@@ -108,17 +108,17 @@ me.get_connected()
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████████████░░░░░░░░░░░░   53.57 % 
-Shell                    4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   15 repos            █████████████░░░░░░░░░░░░   51.72 % 
+Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 22/07/2024 01:15:17 UTC
+ Last Updated on 29/07/2024 01:15:04 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
