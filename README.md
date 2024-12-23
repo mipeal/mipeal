@@ -1,14 +1,11 @@
 
 # Hello there 👋
 
-<!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mipeal)-->
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mipeal)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 [![Profile Last Update](https://img.shields.io/github/last-commit/mipeal/mipeal/main?label=Last%20updated&style=flat)](https://github.com/mipeal/mipeal/commits)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-mipeal-informational?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peeaal/)](https://www.linkedin.com/in/peeaal/)
 [![Wakatime Badge](https://img.shields.io/badge/Wakatime-mipeal-informational?style=flat&logo=Wakatime&logoColor=white&link=https://wakatime.com/@mipeal)](https://wakatime.com/@mipeal)
-[![status](https://badge.stateful.com/mipeal/status.svg)]()
-
-<!--[![status](https://badge.stateful.com/mipeal/dnd.svg)]()-->
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -22,8 +19,8 @@ class CyberSecurityEngineer:
 
     def __init__(self):
         self.name = "Md Mujahid Islam Peal"
-        self.role = "Lead Lab Engineer"
-        self.language_spoken = ["en_GB","no_NO","bd_BD"]
+        self.role = "Cyber Range Engineer"
+        self.language_spoken = ["en_US","no_NO","bd_BD"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -42,65 +39,55 @@ me.get_connected()
 ## 📝 Blogs
 
 - Personal website and blog: https://mipeal.myportfolio.com/
-<!--
-<a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## &#x1F3A7; Listening
+## 🚀 Open Source Contributions
+- [SDL Parser](https://github.com/Open-Cyber-Range/SDL-parser)
+- [Deputy](https://github.com/Open-Cyber-Range/Deputy)
+- [Ranger](https://github.com/Open-Cyber-Range/Ranger)
 
-<p align="center">
-  <a href="https://open.spotify.com/user/31zrcjpbfkfh2earholckyfohsey">
-<img src="https://now-play.vercel.app/api/generate?uid=498d8eb1-b0c0-426b-a8e8-c43e24988060&theme=dark" />
-  </a>
-</p>
--->
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 ## 🔧 Technologies & Tools
-
-![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=csharp&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-gRPC-informational?style=flat&logo=tRPC&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Neo4J-informational?style=flat&logo=neo4j&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Openstack-informational?style=flat&logo=openstack&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-LaTex-informational?style=flat&logo=latex&logoColor=white&color=6aa6f8)
-
-<a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<!--
-## &#x1f4c8; GitHub Stats
-<p align="center">
-<a href="https://github.com/mipeal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mipeal&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="MIPeal's GitHub Stats" />
-</a></p>
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](#)
+[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Openstack](https://img.shields.io/badge/Openstack-F80000?logo=openstack&logoColor=white)](#)
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
--->
+
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mipeal&theme=dark" alt="mipeal" /></p>
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<!--
+
 ## &#127894; GitHub Medals/Trophies
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mipeal&theme=nord&column=7" alt="githubtrophies" /></p>
 
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
--->
+
 ## &#x1F468;&#x200D;&#x1F4BB; Coding Stats
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
