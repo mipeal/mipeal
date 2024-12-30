@@ -96,16 +96,16 @@ me.get_connected()
 
 ```text
 Python                   17 repos            ████████████░░░░░░░░░░░░░   48.57 % 
-Shell                    4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 23/12/2024 01:25:12 UTC
+ Last Updated on 30/12/2024 01:26:07 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
