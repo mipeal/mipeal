@@ -44,6 +44,7 @@ me.get_connected()
 - [SDL Parser](https://github.com/Open-Cyber-Range/SDL-parser)
 - [Deputy](https://github.com/Open-Cyber-Range/Deputy)
 - [Ranger](https://github.com/Open-Cyber-Range/Ranger)
+- [Openstack Handler](https://github.com/Open-Cyber-Range/Openstack-Handler)
 
 <a href="https://mipeal.myportfolio.com/"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
