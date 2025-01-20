@@ -91,22 +91,22 @@ me.get_connected()
 
 ## &#x1F468;&#x200D;&#x1F4BB; Coding Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   17 repos            ████████████░░░░░░░░░░░░░   48.57 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   18 repos            ████████████░░░░░░░░░░░░░   47.37 % 
+Rust                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 13/01/2025 01:27:46 UTC
+ Last Updated on 20/01/2025 01:23:32 UTC
 <!--END_SECTION:waka-->
 <!--
 [![Waka Readme](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml/badge.svg)](https://github.com/mipeal/mipeal/actions/workflows/wakatime.yml)
