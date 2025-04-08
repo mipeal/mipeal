@@ -1,5 +1,6 @@
-
 # Hello there 👋
+[![Free Palestine](https://hinds-banner.vercel.app/free-palestine?variant=classic)](https://www.pcrf.net/)
+[![Genocide Watch](https://hinds-banner.vercel.app/genocide-watch?variant=crimson)](https://www.pcrf.net/)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mipeal)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
